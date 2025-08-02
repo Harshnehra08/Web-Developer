@@ -1,0 +1,163 @@
+.navbar-nav a {
+    padding: 12px 24px !important;
+    font-family: "Lato", sans-serif;
+    color: #fff;
+    font-size: 15px;
+}
+
+.navbar-toggler:hover {
+    background-color: gray;
+    border-radius: none;
+}
+
+.search {
+    padding: 12px 24px;
+
+}
+
+.search:active {
+    background-color: rgb(254, 31, 31);
+}
+
+.section {
+    padding: 70px 16px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+.section h2 {
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.col-sm-4 {
+    text-align: center;
+    padding: 0 8px;
+}
+
+.col-sm-4 img {
+    margin: 0 0 16px;
+    width: 100%;
+}
+
+.col-sm-4 p {
+    margin: 16px 0;
+
+}
+
+.box1 {
+    padding-top: 295px;
+    padding-bottom: 32px;
+
+}
+
+.tour-section {
+    background-color: #000;
+    color: #fff;
+}
+
+#tour {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #757575;
+}
+
+#list {
+    border-bottom: 1px solid #ddd;
+    padding: 8px 16px;
+}
+
+#span-list1 {
+    color: #fff;
+    background-color: #f44336;
+    margin-left: 16px;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+
+/* #span-list2 {
+    margin-right: 16px;
+    background-color: #000;
+    border-radius: 50%;
+    color: #fff;
+    float: right;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+} */
+
+.box2 {
+    padding-top: 295px;
+    padding-bottom: 32px;
+    margin-bottom: 16px;
+}
+
+.date {
+    opacity: 0.60;
+}
+
+.info {
+    color: #000;
+    background-color: #fff;
+    padding: 0.01rem 16px;
+    font-size: 15px;
+}
+
+.box2 img {
+    width: 100%;
+    margin: 0;
+}
+
+.box2 img:hover {
+    opacity: 0.60;
+}
+
+.box2 button:hover {
+    background-color: #9e9e9e;
+}
+
+.icons {
+    margin-bottom: 16px;
+    font-size: 18px;
+    float: left;
+
+}
+
+.footer-icon {
+    text-align: center;
+    padding: 64px 0;
+    color: #000;
+    font-size: 24px;
+    opacity: 0.60;
+}
+
+.footer-icon i:hover {
+    opacity: 0.60;
+}
+
+.close {
+    right: 0px;
+    position: absolute;
+    top: 0px;
+    padding: 15px 20px;
+    font-size: 13px;
+}
+
+.click:hover {
+    background-color: #9e9e9e;
+}
+
+.need-help {
+    float: right;
+    margin: 20px 0;
+}
